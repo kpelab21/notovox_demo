@@ -1,0 +1,31 @@
+ul{
+    list-style: none;
+    padding: 0;
+    width: 30%;
+    margin: auto;
+}
+
+li{
+    font-size: 1.3rem;
+    line-height: 2rem;
+    border-bottom: 1px dotted #777;
+    
+}
+
+#input{
+    min-height: 20px;
+   
+}
+
+#message{
+    width: fit-content;
+    min-width: 30%;
+    border: 1px solid #777;
+    margin: auto;
+    height: fit-content;
+    padding: 5px;     
+}
+
+footer{
+    min-height: 50px;
+}
